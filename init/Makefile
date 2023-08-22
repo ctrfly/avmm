@@ -1,0 +1,5 @@
+
+
+TEST := XXXXXXXXXXXX
+
+dir := test
